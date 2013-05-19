@@ -1,4 +1,4 @@
 HilbertCurveGenerator
 =====================
 
-Hilber Curve Generator created with Allegor C/C++ game library
+Hilbert Curve Generator created with Allegro C/C++ game library
