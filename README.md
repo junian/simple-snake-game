@@ -1,8 +1,15 @@
 # Innocent Snake
 
-A simple snake game created using Allegro C/C++ game library. To run this code, you these following files:
+A simple snake game created using Allegro C/C++ game library. To run this code, you need these following files:
+
 - [Bloodeshed Dev-C++][devcpp]
 - [Allegro DevPak][allegro]
+
+On macOS, you can get allegro from brew.
+
+```
+$ brew install allegro
+```
 
 ![Snake][snake]
 
