@@ -20,4 +20,4 @@ This game is licensed under [MIT][mit]
 [mit]: https://github.com/junian/InnocentSnake/blob/master/LICENSE
 [devcpp]: http://www.bloodshed.net/devcpp.html
 [allegro]: http://devpaks.org/details.php?devpak=1
-[snake]: https://raw.github.com/junian/InnocentSnake/gh-pages/img/screenshots/snake-01.jpg "Snake"
+[snake]: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_tCAbNod_hi4LBYSHmQXD7mqOUB2UdgzDdSoR6XZhAfh7zyZpYmTNp9BkEUNwGJmr-9t9IcY0yLECB7Z-IDkY-JZSxCUcrIIDSh_RJHJLRSknRNJhNWHQLrTzOwX7Wey3uYJpiah0B6Ik0HKp9rvNOwIywFMOIzjoEtJrfQjiYOvI1ed-0spI3Bto8Vo/s1600/snake-01.jpg "Snake"
